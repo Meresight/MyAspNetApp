@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\views\\home\\announcements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:views\\home\\announcements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\wwwroot\\css\\announcement.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:wwwroot\\css\\announcement.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\views\\shared\\_layout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:views\\shared\\_layout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\migrations\\20250312194713_adduserfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:migrations\\20250312194713_adduserfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|c:\\users\\acer\\desktop\\greenmeadowsportal\\greenmeadowsportal\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0428ED2-FB57-48DD-A75C-AFAEE3C3EF1A}|GreenMeadowsPortal.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "announcement.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\wwwroot\\css\\announcement.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\announcement.css",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\wwwroot\\css\\announcement.css",
+              "RelativeToolTip": "wwwroot\\css\\announcement.css",
+              "ViewState": "AgIAAAIGAAAAAAAAAADwvzEGAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T21:53:40.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:52:41.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:42:43.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T17:38:44.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:37:47.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwC0AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T17:42:30.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:36:46.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:37:39.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T17:38:57.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "announcements.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Views\\Home\\announcements.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\announcements.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Views\\Home\\announcements.cshtml",
+              "RelativeToolTip": "Views\\Home\\announcements.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T21:54:13.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T19:00:33.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T17:42:00.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\wwwroot\\css\\index.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\index.css",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\wwwroot\\css\\index.css",
+              "RelativeToolTip": "wwwroot\\css\\index.css",
+              "ViewState": "AgIAANMDAAAAAAAAAAAkwAoEAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T21:38:50.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T17:40:16.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:37:34.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:39:39.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:30:35.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Views\\Shared\\_Layout.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Views\\Shared\\_Layout.cshtml.cs",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:25:37.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250312194713_AddUserFields.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Migrations\\20250312194713_AddUserFields.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250312194713_AddUserFields.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Migrations\\20250312194713_AddUserFields.cs",
+              "RelativeToolTip": "Migrations\\20250312194713_AddUserFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:47:14.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T17:42:09.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "register.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\wwwroot\\css\\register.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\register.css",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\wwwroot\\css\\register.css",
+              "RelativeToolTip": "wwwroot\\css\\register.css",
+              "ViewState": "AgIAAIABAAAAAAAAAAAqwJwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T19:04:05.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\GreenMeadowsPortal\\GreenMeadowsPortal\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "wwwroot\\css\\login.css",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAqwIEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T19:16:52.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

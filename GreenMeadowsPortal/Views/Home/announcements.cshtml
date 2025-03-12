@@ -1,0 +1,246 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using GreenMeadowsPortal.ViewModels
+@model LoginViewModel
+
+@{
+    ViewData["Title"] = "Annoucements - Green Meadows Portal";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Green Meadows | Login</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/announcement.css">
+</head>
+<body>
+    <div class="wrapper">
+        <!-- Sidebar Navigation -->
+        <nav id="sidebar" class="sidebar">
+            <div class="sidebar-header">
+                <h3>Green Meadows</h3>
+                <div class="sidebar-logo">GM</div>
+            </div>
+
+            <div class="user-profile">
+                <div class="user-avatar">
+                    <img src="images/1.jpeg" alt="User Avatar">
+                </div>
+                <div class="user-info">
+                    <h4>Jammy Rivas</h4>
+                    <p>Homeowner</p>
+                </div>
+            </div>
+
+            <ul class="sidebar-menu">
+                <li>
+                    <a href="index.html"><i class="fas fa-home"></i> Dashboard</a>
+                </li>
+                <li class="active">
+                    <a href="announcements.html"><i class="fas fa-bullhorn"></i> Announcements</a>
+                </li>
+                <li>
+                    <a href="billing.html"><i class="fas fa-file-invoice-dollar"></i> Billing</a>
+                </li>
+                <li>
+                    <a href="facilities.html"><i class="fas fa-swimming-pool"></i> Facilities</a>
+                </li>
+                <li>
+                    <a href="service-requests.html"><i class="fas fa-tools"></i> Service Requests</a>
+                </li>
+                <li>
+                    <a href="documents.html"><i class="fas fa-file-alt"></i> Documents</a>
+                </li>
+                <li>
+                    <a href="forum.html"><i class="fas fa-comments"></i> Community Forum</a>
+                </li>
+                <li>
+                    <a href="security.html"><i class="fas fa-shield-alt"></i> Security</a>
+                </li>
+                <li>
+                    <a href="events.html"><i class="fas fa-calendar-alt"></i> Events</a>
+                </li>
+                <li>
+                    <a href="feedback.html"><i class="fas fa-comment-dots"></i> Feedback</a>
+                </li>
+                <li>
+                    <a href="contacts.html"><i class="fas fa-address-book"></i> Contacts</a>
+                </li>
+            </ul>
+
+            <div class="sidebar-footer">
+                <a href="settings.html"><i class="fas fa-cog"></i> Settings</a>
+                <a href="logout.html"><i class="fas fa-sign-out-alt"></i> Logout</a>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <div class="content-area">
+            <!-- Top Navigation -->
+            <header class="top-navbar">
+                <button id="sidebar-toggle" class="sidebar-toggle">
+                    <i class="fas fa-bars"></i>
+                </button>
+
+                <div class="search-bar">
+                    <input type="text" placeholder="Search announcements...">
+                    <button><i class="fas fa-search"></i></button>
+                </div>
+
+                <div class="navbar-right">
+                    <div class="notification-bell">
+                        <i class="fas fa-bell"></i>
+                        <span class="notification-count">3</span>
+                    </div>
+
+                    <div class="user-dropdown">
+                        <img src="images/1.jpeg" alt="User Avatar">
+                        <span>Jammy Rivas</span>
+                        <i class="fas fa-chevron-down"></i>
+
+                        <div class="dropdown-menu">
+                            <a href="profile.html"><i class="fas fa-user"></i> My Profile</a>
+                            <a href="settings.html"><i class="fas fa-cog"></i> Settings</a>
+                            <a href="logout.html"><i class="fas fa-sign-out-alt"></i> Logout</a>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Page Content -->
+            <main class="main-content">
+                <div class="page-header">
+                    <h1>Announcements</h1>
+                    <nav class="breadcrumb">
+                        <a href="index.html">Home</a> / Announcements
+                    </nav>
+                </div>
+
+                <!-- Filter Controls -->
+                <div class="filter-controls">
+                    <div class="filter-group">
+                        <label for="filter-type">Type:</label>
+                        <select id="filter-type">
+                            <option value="all">All Types</option>
+                            <option value="urgent">Urgent</option>
+                            <option value="general">General</option>
+                            <option value="events">Events</option>
+                            <option value="maintenance">Maintenance</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filter-date">Date Range:</label>
+                        <select id="filter-date">
+                            <option value="all">All Time</option>
+                            <option value="this-week">This Week</option>
+                            <option value="this-month">This Month</option>
+                            <option value="last-month">Last Month</option>
+                        </select>
+                    </div>
+                    <div class="filter-actions">
+                        <button class="btn primary-btn">Apply Filters</button>
+                        <button class="btn outline-btn">Reset</button>
+                    </div>
+                </div>
+
+                <!-- Announcements List -->
+                <div class="announcements-list">
+                    <div class="announcement-card">
+                        <div class="announcement-header">
+                            <span class="tag urgent">Urgent</span>
+                            <span class="date">Feb 24, 2025</span>
+                        </div>
+                        <h3>Water Service Interruption</h3>
+                        <p>Please be informed that there will be a scheduled water service interruption on February 27, 2025 from 9:00 AM to 3:00 PM due to maintenance work.</p>
+                        <div class="announcement-footer">
+                            <a href="announcements/1.html" class="read-more">Read More</a>
+                            <span class="announcement-meta">Posted by: Admin</span>
+                        </div>
+                    </div>
+
+                    <div class="announcement-card">
+                        <div class="announcement-header">
+                            <span class="tag general">General</span>
+                            <span class="date">Feb 20, 2025</span>
+                        </div>
+                        <h3>Annual Homeowners' Meeting</h3>
+                        <p>The Annual Homeowners' Meeting is scheduled for March 15, 2025 at the Clubhouse. All homeowners are encouraged to attend.</p>
+                        <div class="announcement-footer">
+                            <a href="announcements/2.html" class="read-more">Read More</a>
+                            <span class="announcement-meta">Posted by: HOA President</span>
+                        </div>
+                    </div>
+
+                    <div class="announcement-card">
+                        <div class="announcement-header">
+                            <span class="tag events">Event</span>
+                            <span class="date">Feb 18, 2025</span>
+                        </div>
+                        <h3>Community Cleanup Drive</h3>
+                        <p>Join us for our quarterly Community Cleanup Drive on March 5, 2025. Let's work together to keep our subdivision clean and green.</p>
+                        <div class="announcement-footer">
+                            <a href="announcements/3.html" class="read-more">Read More</a>
+                            <span class="announcement-meta">Posted by: Community Affairs</span>
+                        </div>
+                    </div>
+
+                    <div class="announcement-card">
+                        <div class="announcement-header">
+                            <span class="tag maintenance">Maintenance</span>
+                            <span class="date">Feb 15, 2025</span>
+                        </div>
+                        <h3>Road Repairs Schedule</h3>
+                        <p>Road repairs will be conducted in Blocks 3 and 4 from February 28 to March 2, 2025. Please plan your travel accordingly.</p>
+                        <div class="announcement-footer">
+                            <a href="announcements/4.html" class="read-more">Read More</a>
+                            <span class="announcement-meta">Posted by: Maintenance Team</span>
+                        </div>
+                    </div>
+
+                    <div class="announcement-card">
+                        <div class="announcement-header">
+                            <span class="tag general">General</span>
+                            <span class="date">Feb 10, 2025</span>
+                        </div>
+                        <h3>New Security Protocols</h3>
+                        <p>New security protocols will be implemented starting March 1, 2025. Please familiarize yourself with the updated guidelines.</p>
+                        <div class="announcement-footer">
+                            <a href="announcements/5.html" class="read-more">Read More</a>
+                            <span class="announcement-meta">Posted by: Security Team</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Pagination -->
+                <div class="pagination">
+                    <a href="#" class="active">1</a>
+                    <a href="#">2</a>
+                    <a href="#">3</a>
+                    <a href="#" class="next">Next <i class="fas fa-chevron-right"></i></a>
+                </div>
+            </main>
+
+            <!-- Footer -->
+            <footer class="main-footer">
+                <div class="footer-content">
+                    <p>&copy; 2025 Green Meadows Subdivision. All rights reserved.</p>
+                    <div class="footer-links">
+                        <a href="privacy-policy.html">Privacy Policy</a>
+                        <a href="terms-of-service.html">Terms of Service</a>
+                        <a href="contact-us.html">Contact Us</a>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>
